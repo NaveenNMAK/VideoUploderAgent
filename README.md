@@ -115,4 +115,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-For questions or feedback, reach out to **Naveen Nunna** at \[[naveennunna@example.com](mailto:naveennunna@example.com)].
+For questions or feedback, reach out to **Naveen Nunna** at \[[nmaknaveen17@gmail.com](mailto:nmaknaveen17@gmail.com)].
